@@ -1,0 +1,1 @@
+{"api_dummy_get_dummy":{"tokens":[["variable",".","json|xml|html","_format"],["text","\/api\/dummy"]],"defaults":{"_format":null},"requirements":{"_format":"json|xml|html"},"hosttokens":[]}}
